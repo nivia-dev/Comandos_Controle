@@ -48,7 +48,7 @@ button:hover {
     opacity: 1;
 }
 
-#botao, .resposta {
+#botao, #res {
     margin-top: 10px;
     text-align: center;
 }
